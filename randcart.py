@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import random as rdm
-#generate a ramdom number
+#generate a random number
 n = rdm.randrange(1,55)
 #chose with deck is be used
 critic = input("If you roll a critical hit type S, for a critical fumble type F: ")
